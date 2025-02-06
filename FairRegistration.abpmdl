@@ -1,0 +1,58 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "FairRegistration.Domain": {
+      "path": "src/FairRegistration.Domain/FairRegistration.Domain.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.Application.Contracts": {
+      "path": "src/FairRegistration.Application.Contracts/FairRegistration.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.Application": {
+      "path": "src/FairRegistration.Application/FairRegistration.Application.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.EntityFrameworkCore": {
+      "path": "src/FairRegistration.EntityFrameworkCore/FairRegistration.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.HttpApi": {
+      "path": "src/FairRegistration.HttpApi/FairRegistration.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.HttpApi.Client": {
+      "path": "src/FairRegistration.HttpApi.Client/FairRegistration.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.TestBase": {
+      "path": "test/FairRegistration.TestBase/FairRegistration.TestBase.abppkg",
+      "folder": "test"
+    },
+    "FairRegistration.EntityFrameworkCore.Tests": {
+      "path": "test/FairRegistration.EntityFrameworkCore.Tests/FairRegistration.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "FairRegistration.Domain.Tests": {
+      "path": "test/FairRegistration.Domain.Tests/FairRegistration.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "FairRegistration.Application.Tests": {
+      "path": "test/FairRegistration.Application.Tests/FairRegistration.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "FairRegistration.Domain.Shared": {
+      "path": "src/FairRegistration.Domain.Shared/FairRegistration.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "FairRegistration.Installer": {
+       "path": "src/FairRegistration.Installer/FairRegistration.Installer.abppkg",
+       "folder": "src"
+    }
+  }
+}

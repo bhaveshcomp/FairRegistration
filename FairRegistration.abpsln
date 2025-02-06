@@ -1,0 +1,9 @@
+{
+  "id": "49406438-02ef-40f3-8e26-6e0780d93c0b",
+  "template": "empty",
+  "modules": {
+    "FairRegistration": {
+      "path": "FairRegistration.abpmdl"
+    }
+  }
+}
